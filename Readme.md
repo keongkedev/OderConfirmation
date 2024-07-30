@@ -1,6 +1,5 @@
 #  Order Confirmation w/ Unfold Animation
 此專案是練習的一個專案，使用單純HTML、CSS(SCSS)撰寫，用於呈現淡入及3D翻頁的Animation。
----
 
 ##  撰寫步驟
 
